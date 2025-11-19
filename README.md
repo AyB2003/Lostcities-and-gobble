@@ -1,4 +1,4 @@
-# LostCities & Gobble 🎮
+# LostCities & Gobble
 
 This repository contains two strategy games developed in **C** using **SDL** (Simple DirectMedia Layer) for graphical rendering. The games implement advanced algorithms for decision-making, offering challenging gameplay and engaging mechanics.
 
